@@ -14,12 +14,12 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.5",
-    "react-hot-toast": "^2.4.1",
-    "styled-components": "^6.1.11"
+    "react-hot-toast": "^2.5.1",
+    "styled-components": "^6.1.11",
+    "vite": "^6.0.11"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "gh-pages": "^6.1.1",
-    "vite": "^5.2.0"
+    "gh-pages": "^6.1.1"
   }
 }

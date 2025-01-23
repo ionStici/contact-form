@@ -4,7 +4,7 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 
 ![](./contact-form.gif)
 
-The project is live at: [https://ionstici.dev/contact-form-fem/](https://ionstici.dev/contact-form-fem/) & [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/contact-form-GnTWf8kFK0)
+The project is live at: [https://ionstici.dev/contact-form](https://ionstici.dev/contact-form) & [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/contact-form-GnTWf8kFK0)
 
 ## Built With
 
